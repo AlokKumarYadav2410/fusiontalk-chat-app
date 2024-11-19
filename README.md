@@ -85,4 +85,4 @@ Contributions are what make the open-source community such an amazing place to l
 - Push to the Branch (git push origin feature/AmazingFeature)
 - Open a Pull Request
 ## License
-Distributed under the MIT License. See [LICENSE]("https://github.com/AlokKumarYadav2410/fusiontalk-chat-app/blob/0c435c494fc4edbb52313b8afaeb4440b7eabc90/LICENSE") for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/AlokKumarYadav2410/fusiontalk-chat-app/blob/0c435c494fc4edbb52313b8afaeb4440b7eabc90/LICENSE) for more information.
