@@ -55,7 +55,6 @@ To get a local copy up and running, follow these steps:
 3. Open the project in your preferred IDE (e.g., Android Studio).
 
 ## Dependencies
-
 Add the following dependencies to your `build.gradle.kts` file:
 
 ```
@@ -78,11 +77,11 @@ To run the application, follow these steps:
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
 - Fork the Project
 - Create your Feature Branch (git checkout -b feature/AmazingFeature)
 - Commit your Changes (git commit -m 'Add some AmazingFeature')
 - Push to the Branch (git push origin feature/AmazingFeature)
 - Open a Pull Request
+
 ## License
 Distributed under the MIT License. See [LICENSE](https://github.com/AlokKumarYadav2410/fusiontalk-chat-app/blob/0c435c494fc4edbb52313b8afaeb4440b7eabc90/LICENSE) for more information.
