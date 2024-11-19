@@ -1,15 +1,15 @@
-# FusionTalk Chat App 🚀
+# FusionTalk Chat App 💬📱🚀
 
-FusionTalk is a real-time chat application designed to provide a seamless and secure communication experience. Built with modern technologies, FusionTalk ensures that users can chat in real-time while preventing harmful and abusive content from being sent.
+FusionTalk is a real-time chat application designed to provide a seamless and secure communication experience. Built with XML, Java, and Firebase, FusionTalk ensures that users can chat in real-time while preventing harmful and abusive content from being sent. In the future, we plan to integrate Natural Language Processing (NLP) to enhance this feature even further.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Dependencies](#dependencies)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
+- [Dependencies](#dependencies)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -36,6 +36,24 @@ FusionTalk is a cutting-edge chat application that offers real-time messaging ca
 - **Real-time Communication**: Firebase Realtime Database
 - **Future Enhancements**: NLP for content moderation
 
+## Screenshots
+<img src="https://github.com/AlokKumarYadav2410/fusiontalk-chat-app/blob/3ca6a412e9977b605b871a408cf64962ccb3aa7c/app/src/main/res/screenshots/Login.png" height="500px" alt="login"> &nbsp;&nbsp;<img src="https://github.com/AlokKumarYadav2410/fusiontalk-chat-app/blob/3ca6a412e9977b605b871a408cf64962ccb3aa7c/app/src/main/res/screenshots/singup.png" height="500px" alt="signup">
+
+<img src="https://github.com/AlokKumarYadav2410/fusiontalk-chat-app/blob/3ca6a412e9977b605b871a408cf64962ccb3aa7c/app/src/main/res/screenshots/splashscreen.png" height="500px" alt="splashscreen"> &nbsp;&nbsp;<img src="https://github.com/AlokKumarYadav2410/fusiontalk-chat-app/blob/3ca6a412e9977b605b871a408cf64962ccb3aa7c/app/src/main/res/screenshots/chatwindow.png" height="500px" width="280px" alt="chatwindow">
+
+<img src="https://github.com/AlokKumarYadav2410/fusiontalk-chat-app/blob/3ca6a412e9977b605b871a408cf64962ccb3aa7c/app/src/main/res/screenshots/moderation.png" height="500px" alt="prevention"> &nbsp;&nbsp;<img src="https://github.com/AlokKumarYadav2410/fusiontalk-chat-app/blob/3ca6a412e9977b605b871a408cf64962ccb3aa7c/app/src/main/res/screenshots/chatting.png" height="500px" width="280px" alt="chatting">
+
+## Installation
+To get a local copy up and running, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AlokKumarYadav2410/fusiontalk-chat-app.git
+2. Navigate to the project directory:
+   ```bash
+   cd fusiontalk-chat-app
+3. Open the project in your preferred IDE (e.g., Android Studio).
+
 ## Dependencies
 
 Add the following dependencies to your `build.gradle.kts` file:
@@ -50,22 +68,6 @@ implementation("com.squareup.okhttp3:okhttp:4.12.0")
 implementation("com.squareup.picasso:picasso:2.8")
 ```
 
-## Screenshots
-Add your screenshots here
-
-Screenshot 1 Screenshot 2
-
-## Installation
-To get a local copy up and running, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AlokKumarYadav2410/fusiontalk-chat-app.git
-2. Navigate to the project directory:
-   ```bash
-   cd fusiontalk-chat-app
-3. Open the project in your preferred IDE (e.g., Android Studio).
-
 ## Usage
 To run the application, follow these steps:
 
@@ -75,7 +77,7 @@ To run the application, follow these steps:
 4. Run the project from Android Studio.
 
 ## Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are *greatly appreciated*.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 - Fork the Project
 - Create your Feature Branch (git checkout -b feature/AmazingFeature)
